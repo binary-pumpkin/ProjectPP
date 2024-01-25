@@ -48,6 +48,7 @@ Pokemon Black2 & White2
 Pokemon X & Y 
 
 Pokemon Omega Ruby and Alpha Sapphire
+
 ------------------------------------
 
 
