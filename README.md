@@ -5,14 +5,15 @@
 ## Base Games
 *The base pokemon games developed and relesed by nentendo* 
 
-Pokemon Red - Relesed on NES in America in 1998
+### NES 
 
-Pokemon Bue - Relesed on NES in America in 1998
+Pokemon Red
 
-Pokemon Green - Relesed on NES in America in 1998
+Pokemon Blue
 
-Pokemon Yellow - Relesed on NES in America in 1999 
+Pokemon Green
 
+Pokemon Yello
 
 
 
