@@ -1,2 +1,1 @@
-# ProjectPP
-The project to preserve the pokemon classics (PP stands for pokemon preservation) 
+this is a project im working on when im bored. Its not gonna inculude all the pokemon fan games just because there are so many of them. It will inlcude a few things, such as : Tools, Base Games, Fan Games, Roms, Cheats.
