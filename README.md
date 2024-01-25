@@ -4,9 +4,9 @@
 
 Places to get stuff or smn idk : 
 
-[Vimms](Vimm.net)
+[Vimms](https://Vimm.net)
 
-[Roms fun](rommsfun.com)
+[Roms fun](https://rommsfun.com)
 
 ---------------------------------------------------------
 ## Base Games
