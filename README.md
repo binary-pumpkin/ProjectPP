@@ -1,5 +1,12 @@
 # Project PP (Pokemon Preservation) 
 *The ultimate guied to pokemon emulation Up to 3ds*
+---------------------------------------------------------
+
+Places to get stuff or smn idk : 
+
+[Vimms](Vimm.net)
+
+[Roms fun](rommsfun.com)
 
 ---------------------------------------------------------
 ## Base Games
